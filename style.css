@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .PUNCH{
     background: #000000;
     color:white;
@@ -5,9 +9,12 @@
     justify-content: space-around;
 }
 .ONE{
-    width: 40%;
+    width: 20%;
 
 }
 .MAN{
-display: inline-block;
+    display: inline-block;
+    margin: 0 16px;
+    padding: 34px 0;
+    font-size: 24px;
 }
