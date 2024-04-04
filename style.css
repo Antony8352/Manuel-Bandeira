@@ -14,7 +14,14 @@
 }
 .MAN{
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 20px;
     padding: 34px 0;
     font-size: 24px;
+}
+.img.ONE{
+    width: 20;
+}
+
+.anime{
+    background-color: aliceblue;
 }
