@@ -37,8 +37,12 @@
     padding: 24px 0;
 }
 .silverfang{
-    width: 35%;
+    width: 100%;
 }
 .metal{
-    width: 2%;
+    width: 10%;
+}
+.sonic{
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
 }
